@@ -1,0 +1,5 @@
+{
+  "regular": [{ "time": "09:00 AM", "activity": "Breakfast" }],
+  "arrival": [{ "time": "04:00 PM", "activity": "Drive In" }],
+  "departure": [{ "time": "09:00 AM", "activity": "Breakfast" }]
+}

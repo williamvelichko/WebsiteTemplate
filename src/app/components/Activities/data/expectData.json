@@ -1,0 +1,26 @@
+[
+  {
+    "activity": "activity",
+    "image": "/image.JPG",
+    "imageWebp": "/image.webp",
+    "description": "description"
+  },
+  {
+    "activity": "activity",
+    "image": "/image.JPG",
+    "imageWebp": "/image.webp",
+    "description": "description"
+  },
+  {
+    "activity": "activity",
+    "image": "/image.JPG",
+    "imageWebp": "/image.webp",
+    "description": "description"
+  },
+  {
+    "activity": "activity",
+    "image": "/image.JPG",
+    "imageWebp": "/image.webp",
+    "description": "description"
+  }
+]
