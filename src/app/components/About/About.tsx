@@ -5,12 +5,8 @@ const About = () => {
   return (
     <section className={styles.about}>
       <div>
-        <h3>Matthew 13:44</h3>
-        <p>
-          &quot;The kingdom of heaven is like treasure hidden in a field, which
-          a man found and covered up. Then in his joy he goes and sells all that
-          he has and buys that field.&quot;
-        </p>
+        <h3>Verse</h3>
+        <p>&quot;Bible Verse&quot;</p>
       </div>
     </section>
   );

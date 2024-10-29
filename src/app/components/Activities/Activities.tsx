@@ -8,11 +8,7 @@ const Activities = () => {
       <section className={styles.activities}>
         <div className={styles.activityContent}>
           <h3>What to Expect</h3>
-          <p>
-            At our camp, you can expect a safe and inclusive environment,
-            delicious meals, comfortable accommodations, and a chance to make
-            lifelong friendships. Get ready for an amazing adventure!
-          </p>
+          <p>Expectactions</p>
         </div>
       </section>
       <Expectations />
