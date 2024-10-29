@@ -9,8 +9,8 @@ const quicksand = Quicksand({
 });
 
 export const metadata: Metadata = {
-  title: "BibleCamp",
-  description: "TheBibleCamp",
+  title: "Template",
+  description: "Template",
   icons: {
     icon: "/favicon.ico",
   },
